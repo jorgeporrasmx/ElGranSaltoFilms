@@ -78,8 +78,8 @@ export default function RootLayout({
               email: 'hola@sutilde.com',
               telephone: '+526144273301',
               sameAs: [
-                'https://www.instagram.com/elgransalto',
-                'https://www.facebook.com/elgransalto',
+                'https://www.instagram.com/elgransaltomx/',
+                'https://www.facebook.com/ElGranSaltomx',
                 'https://www.youtube.com/@elgransalto',
               ],
               address: {

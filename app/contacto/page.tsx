@@ -66,11 +66,13 @@ export default function ContactoPage() {
                 </div>
 
                 <div className="flex items-start gap-4">
-                  <MapPin className="h-6 w-6 text-accent-primary mt-1" />
+                  <MapPin className="h-6 w-6 text-accent-primary mt-1 flex-shrink-0" />
                   <div>
-                    <h3 className="font-heading font-bold mb-1">Ubicación</h3>
+                    <h3 className="font-heading font-bold mb-1">Ubicaciones</h3>
                     <p className="text-text-secondary">
-                      Ciudad de México, México
+                      Ciudad de México · Querétaro · Chihuahua
+                      <br />
+                      Monterrey · Guadalajara · Cancún
                     </p>
                   </div>
                 </div>

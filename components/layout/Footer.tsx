@@ -23,8 +23,8 @@ const footerLinks = {
 }
 
 const socialLinks = [
-  { icon: Instagram, href: 'https://instagram.com/elgransalto', label: 'Instagram' },
-  { icon: Facebook, href: 'https://facebook.com/elgransalto', label: 'Facebook' },
+  { icon: Instagram, href: 'https://www.instagram.com/elgransaltomx/', label: 'Instagram' },
+  { icon: Facebook, href: 'https://www.facebook.com/ElGranSaltomx', label: 'Facebook' },
   { icon: Youtube, href: 'https://youtube.com/@elgransalto', label: 'YouTube' },
   { icon: Linkedin, href: 'https://linkedin.com/company/elgransalto', label: 'LinkedIn' },
 ]
@@ -131,8 +131,10 @@ export default function Footer() {
                 </a>
               </li>
               <li className="flex items-start gap-2 text-text-secondary text-sm">
-                <MapPin className="h-4 w-4 mt-0.5" />
-                <span>Ciudad de México, México</span>
+                <MapPin className="h-4 w-4 mt-0.5 flex-shrink-0" />
+                <span>
+                  CDMX · Querétaro · Chihuahua · Monterrey · Guadalajara · Cancún
+                </span>
               </li>
             </ul>
           </div>
