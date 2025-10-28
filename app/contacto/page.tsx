@@ -44,10 +44,10 @@ export default function ContactoPage() {
                   <div>
                     <h3 className="font-heading font-bold mb-1">Email</h3>
                     <a
-                      href="mailto:hola@elgransalto.com"
+                      href="mailto:hola@sutilde.com"
                       className="text-text-secondary hover:text-accent-primary transition-colors"
                     >
-                      hola@elgransalto.com
+                      hola@sutilde.com
                     </a>
                   </div>
                 </div>
@@ -57,10 +57,10 @@ export default function ContactoPage() {
                   <div>
                     <h3 className="font-heading font-bold mb-1">Teléfono</h3>
                     <a
-                      href="tel:+525512345678"
+                      href="tel:+526144273301"
                       className="text-text-secondary hover:text-accent-primary transition-colors"
                     >
-                      +52 55 1234 5678
+                      +52 614 427 3301
                     </a>
                   </div>
                 </div>

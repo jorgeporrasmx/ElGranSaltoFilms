@@ -75,6 +75,8 @@ export default function RootLayout({
               description: 'Productora especializada en documentales deportivos',
               url: 'https://elgransalto.com',
               logo: 'https://elgransalto.com/images/logo.png',
+              email: 'hola@sutilde.com',
+              telephone: '+526144273301',
               sameAs: [
                 'https://www.instagram.com/elgransalto',
                 'https://www.facebook.com/elgransalto',

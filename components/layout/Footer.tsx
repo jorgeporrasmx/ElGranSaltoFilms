@@ -114,20 +114,20 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="mailto:hola@elgransalto.com"
+                  href="mailto:hola@sutilde.com"
                   className="flex items-center gap-2 text-text-secondary text-sm hover:text-accent-primary transition-colors"
                 >
                   <Mail className="h-4 w-4" />
-                  hola@elgransalto.com
+                  hola@sutilde.com
                 </a>
               </li>
               <li>
                 <a
-                  href="tel:+525512345678"
+                  href="tel:+526144273301"
                   className="flex items-center gap-2 text-text-secondary text-sm hover:text-accent-primary transition-colors"
                 >
                   <Phone className="h-4 w-4" />
-                  +52 55 1234 5678
+                  +52 614 427 3301
                 </a>
               </li>
               <li className="flex items-start gap-2 text-text-secondary text-sm">
